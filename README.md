@@ -11,9 +11,10 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
   
 - Multi-teacher Knowledge Distillation for End-to-End Text Image Machine Translation. ICDAR 2023.
 - E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. ICDAR 2023.
+  
 ### 2022
 - Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. [Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task](https://arxiv.org/pdf/2210.03887.pdf)[C]. ICPR 2022.  **code**:[[code](https://github.com/EriCongMa/E2E_TIT_With_MT)]. 
-
+- Zhuo Chen; Fei Yin; Qing Yang; Cheng-Lin Liu. [Cross-lingual text image recognition via multi-hierarchy cross-modal mimic](https://ieeexplore.ieee.org/abstract/document/9798797). IEEE Transactions on Multimedia 2022.
 
 
 ## Document Image Translation 
@@ -22,8 +23,8 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
 
 ### 2021
 - Ryota Hinami, Shonosuke Ishiwatari, Kazuhiko Yasuda, Yusuke Matsui. [Towards Fully Automated Manga Translation](https://arxiv.org/pdf/2012.14271.pdf). AAAI 2021. 
-
-
+- Jain P, Firat O, Ge Q, et al. [Image translation network](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/918787f5e705c87e85139c8bd2d0ebd7a96a7e6c.pdf)[J]. NAACL workshop 2021.
+- Su, Tonghua, Shuchen Liu, and Shengjie Zhou. Rtnet: An end-to-end method for handwritten text image translation. ICDAR 2021.
 
 - `Benchmark Datasets`
 
