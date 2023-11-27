@@ -8,7 +8,6 @@ a curated list of image text translation
 Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023; **code**:[[code](https://github.com/lishangjie1/PEIT)]
 - Zhibin Lan, Jiawei Yu, Xiang Li, Wen Zhang, Jian Luan, Bin Wang, Degen Huang, Jinsong Su. [Exploring Better Text Image Translation with Multimodal Codebook](https://arxiv.org/pdf/2305.17415.pdf)[C]. ACL 2023.  **code**:[[code](https://github.com/DeepLearnXMU/mc_tit). 
 - Cong Ma; Xu Han; Linghui Wu; Yaping Zhang; Yang Zhao; Yu Zhou; Chengqing Zong. [Modal Contrastive Learning based End-to-End Text Image Machine Translation](https://ieeexplore.ieee.org/abstract/document/10284997)[J]. TASLP 2023.
-#### ICDAR 2023
 -Multi-teacher Knowledge Distillation for End-to-End Text Image Machine Translation. ICDAR 2023
 -E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. ICDAR 2023
 ### 2022
