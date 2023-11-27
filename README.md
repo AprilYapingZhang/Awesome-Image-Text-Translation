@@ -6,13 +6,13 @@ a curated list of image text translation
 ### 2023
 - Shaolin Zhu∗, Shangjie Li∗, Yikun Lei, Deyi xiong†. [PEIT: Bridging the Modality Gap with Pre-trained Models for End-to-End
 Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023; **code**:[[code](https://github.com/lishangjie1/PEIT)]
-- Zhibin Lan, Jiawei Yu, Xiang Li, Wen Zhang, Jian Luan, Bin Wang, Degen Huang, Jinsong Su. [Exploring Better Text Image Translation with Multimodal Codebook](https://arxiv.org/pdf/2305.17415.pdf)[C]. ACL 2023.  **code**:[[code](https://github.com/DeepLearnXMU/mc_tit). 
+- Zhibin Lan, Jiawei Yu, Xiang Li, Wen Zhang, Jian Luan, Bin Wang, Degen Huang, Jinsong Su. [Exploring Better Text Image Translation with Multimodal Codebook](https://arxiv.org/pdf/2305.17415.pdf)[C]. ACL 2023.  **code**:[[code](https://github.com/DeepLearnXMU/mc_tit)]. 
 - Cong Ma; Xu Han; Linghui Wu; Yaping Zhang; Yang Zhao; Yu Zhou; Chengqing Zong. [Modal Contrastive Learning based End-to-End Text Image Machine Translation](https://ieeexplore.ieee.org/abstract/document/10284997)[J]. TASLP 2023.
   
 - Multi-teacher Knowledge Distillation for End-to-End Text Image Machine Translation. ICDAR 2023.
 - E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation. ICDAR 2023.
 ### 2022
-- Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. [Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task](https://arxiv.org/pdf/2210.03887.pdf)[C]. ICPR 2022.  **code**:[[code](https://github.com/EriCongMa/E2E_TIT_With_MT). 
+- Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. [Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task](https://arxiv.org/pdf/2210.03887.pdf)[C]. ICPR 2022.  **code**:[[code](https://github.com/EriCongMa/E2E_TIT_With_MT)]. 
 
 
 
