@@ -6,10 +6,13 @@ a curated list of image text translation
 ### 2023
 - Shaolin Zhu∗, Shangjie Li∗, Yikun Lei, Deyi xiong†. [PEIT: Bridging the Modality Gap with Pre-trained Models for End-to-End
 Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023; **code**:[[code](https://github.com/lishangjie1/PEIT)]
-- Zhibin Lan, Jiawei Yu, Xiang Li, Wen Zhang, Jian Luan, Bin Wang, Degen Huang, Jinsong Su. [Exploring Better Text Image Translation with Multimodal Codebook](https://arxiv.org/pdf/2305.17415.pdf)[C]. ACL 2023.  **code**:[[code](https://github.com/DeepLearnXMU/mc_tit)]. 
+
+- Zhibin Lan, Jiawei Yu, Xiang Li, Wen Zhang, Jian Luan, Bin Wang, Degen Huang, Jinsong Su. [Exploring Better Text Image Translation with Multimodal Codebook](https://arxiv.org/pdf/2305.17415.pdf)[C]. ACL 2023.  **code**:[[code](https://github.com/DeepLearnXMU/mc_tit)].
+  
 - Cong Ma; Xu Han; Linghui Wu; Yaping Zhang; Yang Zhao; Yu Zhou; Chengqing Zong. [Modal Contrastive Learning based End-to-End Text Image Machine Translation](https://ieeexplore.ieee.org/abstract/document/10284997)[J]. TASLP 2023.
   
 - Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou & Chengqing Zong. [Multi-teacher Knowledge Distillation for End-to-End Text Image Machine Translation](https://arxiv.org/pdf/2305.05226.pdf)[C]. ICDAR 2023.
+  
 - Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. [E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation](https://arxiv.org/pdf/2305.05166.pdf)[C]. ICDAR 2023.
   
 ### 2022
@@ -19,7 +22,7 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
 
 ## Document Image Translation 
 ### 2023
-
+- Zhiyang Zhang, Yaping Zhang, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. [A Novel Dataset and Benchmark Analysis on Document Image Translation](https://link.springer.com/chapter/10.1007/978-981-99-7894-6_10)[C]. CCMT 2023. 
 
 ### 2021
 - Ryota Hinami, Shonosuke Ishiwatari, Kazuhiko Yasuda, Yusuke Matsui. [Towards Fully Automated Manga Translation](https://arxiv.org/pdf/2012.14271.pdf). AAAI 2021. 
