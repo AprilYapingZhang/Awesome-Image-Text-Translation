@@ -26,6 +26,8 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
 - Jain P, Firat O, Ge Q, et al. [Image translation network](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/918787f5e705c87e85139c8bd2d0ebd7a96a7e6c.pdf)[J]. NAACL workshop 2021.
 - Su, Tonghua, Shuchen Liu, and Shengjie Zhou. Rtnet: An end-to-end method for handwritten text image translation. ICDAR 2021.
 
+### 2020
+- Elman Mansimov, Mitchell Stern, M. Chen, Orhan Firat, Jakob Uszkoreit, [Puneet Jain. Towards End-to-End In-Image Neural Machine Translation](https://www.semanticscholar.org/reader/0a0bb62e56929d2c55ad6b9f18386f4fd7ba520a)[C]. NLPBT 2020.
 - `Benchmark Datasets`
 
 |Dataset| Discription | Competition Paper |
