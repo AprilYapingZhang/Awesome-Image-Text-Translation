@@ -15,7 +15,7 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
   
 - Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. [E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation](https://arxiv.org/pdf/2305.05166.pdf)[C]. ICDAR 2023.
 - Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. [CCIM: Cross-modal Cross-lingual Interactive Image Translation](https://aclanthology.org/2023.findings-emnlp.330.pdf)[C]. EMNLP 2023.
-
+- Yanzhi Tian, Xiang Li, Zeming Liu, Yuhang Guo, Bin Wang. [In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model] (https://aclanthology.org/2023.findings-emnlp.1004.pdf)[C]. EMNLP 2023
   
 ### 2022
 - Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. [Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task](https://arxiv.org/pdf/2210.03887.pdf)[C]. ICPR 2022.  **code**:[[code](https://github.com/EriCongMa/E2E_TIT_With_MT)]. 
