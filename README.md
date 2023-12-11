@@ -14,6 +14,8 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
 - Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou & Chengqing Zong. [Multi-teacher Knowledge Distillation for End-to-End Text Image Machine Translation](https://arxiv.org/pdf/2305.05226.pdf)[C]. ICDAR 2023.
   
 - Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. [E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation](https://arxiv.org/pdf/2305.05166.pdf)[C]. ICDAR 2023.
+- Cong Ma, Yaping Zhang, Mei Tu, Yang Zhao, Yu Zhou, Chengqing Zong. [CCIM: Cross-modal Cross-lingual Interactive Image Translation](https://aclanthology.org/2023.findings-emnlp.330.pdf)[C]. EMNLP 2023.
+
   
 ### 2022
 - Cong Ma, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. [Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task](https://arxiv.org/pdf/2210.03887.pdf)[C]. ICPR 2022.  **code**:[[code](https://github.com/EriCongMa/E2E_TIT_With_MT)]. 
@@ -22,6 +24,7 @@ Image Translation](https://aclanthology.org/2023.acl-long.751.pdf)[C]. ACL 2023;
 
 ## Document Image Translation 
 ### 2023
+- Zhiyang Zhang, Yaping Zhang, Yupu Liang, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. [LayoutDIT: Layout-Aware End-to-End Document Image Translation with Multi-Step Conductive Decoder] (https://aclanthology.org/2023.findings-emnlp.673.pdf) [C]. EMNLP 2023.
 - Zhiyang Zhang, Yaping Zhang, Lu Xiang, Yang Zhao, Yu Zhou, Chengqing Zong. [A Novel Dataset and Benchmark Analysis on Document Image Translation](https://link.springer.com/chapter/10.1007/978-981-99-7894-6_10)[C]. CCMT 2023. 
 
 ### 2021
